@@ -8,6 +8,10 @@ CERET is a framework for refining LLM predictions by considering semantic stabil
 
 Experimental results show that CERET significantly outperforms Self-consistency and Self-rarank baselines for abstractive summarization and question answering. Compared to various LLM self-improvement / self-reflection methods, our approach has lower latency and is more cost-effective. 
 
+<p align="center">
+    <img src="./images/main_figure_v3.png" width="400">
+</p>
+
 ## Setup
 
 You can create a conda environment with provided YAML file.
@@ -99,3 +103,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This project is licensed under the Apache-2.0 License.
 
+## Citation
+
+```<TBA>```
