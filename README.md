@@ -2,7 +2,7 @@
 
 Authors: Jason Cai, Hang Su, Monica Sunkara, Igor Shalyminov, Saab Mansour
 
-**This is the code repository for paper CERET: Cost-Effective Extrinsic Refinement for Text Generation (NAACL 2024).**
+**This is the code repository for paper CERET: Cost-Effective Extrinsic Refinement for Text Generation (NAACL 2024). [[Link](https://arxiv.org/abs/2406.05588)]**
 
 CERET is a framework for refining LLM predictions by considering semantic stability, entailment and inter-sample uncertainty measures. This approach does not require additional training, or iterative inference of LLM(s). 
 
@@ -105,4 +105,13 @@ This project is licensed under the Apache-2.0 License.
 
 ## Citation
 
-```<TBA>```
+```
+@article{jcai2024ceret,
+  title={CERET: Cost-Effective Extrinsic Refinement for Text Generation},
+  author={Cai, Jason and Su, Hang and Sunkara, Monica and Shalyminov, Igor and Mansour, Saab},
+  journal={arXiv preprint arXiv:2406.05588},
+  year={2024},
+  url={https://arxiv.org/abs/2406.05588}
+}
+
+```
